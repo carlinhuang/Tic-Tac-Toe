@@ -7,3 +7,4 @@ It implements a GUI using Java’s Swing library.
 When user clicks in the appropriate area of the screen, the board will responded to mouse click accordingly.
 
 Play by downloading "tictactoe.jar" in "res" folder and open it in terminal with command "java -jar " followed by the current path of the .jar document.
+For example: <pre>java -jar /Users/carlinhuang/Downloads/tictactoe.jar </pre>
